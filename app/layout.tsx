@@ -4,6 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'ServicePro - Drivers license',
   description: 'Ваш путь к званию водителя',
+  generator: 'v0.dev',
 }
 
 export default function RootLayout({
